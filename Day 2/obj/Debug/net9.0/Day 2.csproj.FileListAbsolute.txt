@@ -12,3 +12,4 @@
 /Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.pdb
 /Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.genruntimeconfig.cache
 /Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/ref/Day 2.dll
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.sourcelink.json
