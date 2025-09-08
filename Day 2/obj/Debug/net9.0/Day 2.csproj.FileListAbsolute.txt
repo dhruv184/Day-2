@@ -1,0 +1,14 @@
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/bin/Debug/net9.0/Day 2
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/bin/Debug/net9.0/Day 2.deps.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/bin/Debug/net9.0/Day 2.runtimeconfig.json
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/bin/Debug/net9.0/Day 2.dll
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/bin/Debug/net9.0/Day 2.pdb
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.AssemblyInfoInputs.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.AssemblyInfo.cs
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.csproj.CoreCompileInputs.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.dll
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/refint/Day 2.dll
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.pdb
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/Day 2.genruntimeconfig.cache
+/Users/dhruvpatel/Desktop/Semester - 5/Enterprise Software Systems/Term - 1/Day 2/Day 2/Day 2/obj/Debug/net9.0/ref/Day 2.dll
